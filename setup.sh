@@ -4,8 +4,6 @@ gitdir=$PWD
 antigen_gitdir="$gitdir/antigen-git"
 antigen_pkgdir="$gitdir/pkg"
 
-echo $PWD
-
 #
 # Bootstrap antigen
 #
