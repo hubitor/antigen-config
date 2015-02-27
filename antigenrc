@@ -21,6 +21,10 @@ antigen bundle git
 # Syntax highlighting bundle.
 antigen bundle zsh-users/zsh-syntax-highlighting
 
+# fancy git prompt
+# antigen-bundle arialdomartini/oh-my-git
+# antigen theme arialdomartini/oh-my-git-themes oppa-lana-style
+
 antigen bundle rupa/z
 
 # antigen bundle Lokaltog/powerline powerline/bindings/zsh
